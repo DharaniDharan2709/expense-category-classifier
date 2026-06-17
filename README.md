@@ -1,0 +1,1 @@
+A simple ML classifier for your input data like your expense or activities that you entered and it will predict the category and specifies it and will show the category, as apart of my learning AIML this is my first project using scikit learn and pandas libraries, learned about python pandas and scikitlearn with the help of gemini.
